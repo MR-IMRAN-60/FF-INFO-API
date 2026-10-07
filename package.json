@@ -1,1 +1,7 @@
-
+{
+  "name": "ff-info-api",
+  "version": "1.0.0",
+  "description": "Global Free Fire player info GET API for Vercel (all regions)",
+  "private": true,
+  "engines": { "node": ">=18" }
+}
